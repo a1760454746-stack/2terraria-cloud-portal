@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "id": "terraria",
+      "name": "Terraria",
+      "icon": "🎮",
+      "description": "泰拉瑞亚游戏",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Terraria\\Terraria.exe",
+      "builtin": true
+    },
+    {
+      "id": "desktop",
+      "name": "Remote Desktop",
+      "icon": "🖥️",
+      "description": "远程桌面",
+      "path": "",
+      "builtin": true
+    }
+  ]
+}

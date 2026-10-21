@@ -1,0 +1,5 @@
+{
+  "name": "Terraria Cloud Portal",
+  "description": "A WebRTC cloud gaming portal for playing Terraria in the browser.",
+  "requestFramePermissions": []
+}

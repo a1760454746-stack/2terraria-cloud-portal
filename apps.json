@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "id": "custom_1774103058132",
+      "name": "计算器",
+      "icon": "⚙️",
+      "description": "",
+      "path": "C:\\Windows\\System32\\calc.exe",
+      "builtin": false
+    },
+    {
+      "id": "custom_1774103783998",
+      "name": "记事本",
+      "icon": "⚙️",
+      "description": "",
+      "path": "C:\\Windows\\System32\\notepad.exe",
+      "builtin": false
+    },
+    {
+      "id": "custom_1774162492990",
+      "name": "史莱姆农场",
+      "icon": "⚙️",
+      "description": "",
+      "path": "D:\\steam\\steamapps\\common\\Slime Rancher\\SlimeRancher.exe",
+      "builtin": false
+    }
+  ]
+}

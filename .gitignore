@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local Python caches and device state
+__pycache__/
+*.py[cod]
+/device_config.json
+/devices.json
